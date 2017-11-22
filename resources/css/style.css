@@ -2,5 +2,51 @@
   align-items: center;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  
+}
+
+#header {
+  background-image: url(/Users/quandragray/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
+  }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 18px;
+  color: white;
+  line-height: 200%
+}
+
+}
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(/Users/quandragray/Desktop/projects/Broadway/resources/images/the-flatiron-building.png);
+  }
+
+p {
+  font-size: 14px;
+}
+
+footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+footer p {
+  font-size: 11px;
+}
+footer p, nav {
+  display: inline;
 }
